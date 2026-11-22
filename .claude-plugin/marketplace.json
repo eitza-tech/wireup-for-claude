@@ -1,0 +1,14 @@
+{
+  "name": "eitza-tech",
+  "owner": {
+    "name": "Eitza Tech",
+    "email": "contact@eitza.tech"
+  },
+  "plugins": [
+    {
+      "name": "wireup",
+      "source": "./",
+      "description": "Your own WhatsApp in Claude Code, through the hosted WireUp connector."
+    }
+  ]
+}

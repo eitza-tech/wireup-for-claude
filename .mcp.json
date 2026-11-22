@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wireup": {
+      "type": "http",
+      "url": "https://wireup.chat/mcp"
+    }
+  }
+}

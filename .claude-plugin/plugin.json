@@ -1,0 +1,14 @@
+{
+  "name": "wireup",
+  "version": "1.0.0",
+  "description": "Your own WhatsApp in Claude: catch up on chats, search old messages, open photos and voice notes, and draft replies you approve before anything is sent.",
+  "author": {
+    "name": "Eitza Tech",
+    "email": "contact@eitza.tech",
+    "url": "https://wireup.chat"
+  },
+  "homepage": "https://wireup.chat/connect/claude",
+  "repository": "https://github.com/eitza-tech/wireup-for-claude",
+  "license": "MIT",
+  "keywords": ["whatsapp", "messaging", "chats", "mcp", "connector", "wireup"]
+}
