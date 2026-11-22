@@ -92,7 +92,7 @@ Then type `/mcp` and sign in with the same Google account.
 
 **Does it work with the WhatsApp Business app?** It links like WhatsApp Web, so any account that can link a device can be used.
 
-**Can I use it in other AI apps too?** Yes: ChatGPT, Gemini, Grok, Perplexity, Cursor and any app that supports remote MCP connectors. See [wireup.chat/connect](https://wireup.chat/connect).
+**Can I use it in other AI apps too?** Yes: ChatGPT, Gemini, Grok, Perplexity, Cursor and any app that supports remote MCP connectors. See [wireup.chat/connect](https://wireup.chat/connect) and [WireUp on GitHub](https://github.com/eitza-tech/wireup).
 
 ## Troubleshooting
 
